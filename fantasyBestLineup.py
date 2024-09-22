@@ -5,9 +5,10 @@ from dotenv import load_dotenv
 load_dotenv()
 SWID = os.getenv("SWID")
 ESPN_S2 = os.getenv("ESPN_S2")
+LEAGUE_ID = os.getenv("LEAGUE_ID")
 
 league = League(
-    league_id=944634639,
+    league_id=LEAGUE_ID,
     year=2024,
     swid=SWID,
     espn_s2=ESPN_S2
