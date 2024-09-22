@@ -7,6 +7,7 @@ Construct the best possible NFL Fantasy starting lineup based on projected point
 * Example Output *
 
 Best Possible Starting Lineup:
+
 QB: Patrick Mahomes, Projected Points: 20.0
 
 RB1: De'Von Achane, Projected Points: 18.71
