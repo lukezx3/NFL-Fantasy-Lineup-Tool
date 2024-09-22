@@ -2,9 +2,7 @@
 
 Construct the best possible NFL Fantasy starting lineup based on projected points for the week. 
 
-* All data pulled from ESPN Fantasy API *
-
-* Example Output *
+## Example Output
 
 Best Possible Starting Lineup:
 
@@ -25,3 +23,8 @@ Flex: Nico Collins, Projected Points: 16.53
 D/ST: Bears D/ST, Projected Points: 5.43
 
 K: Chase McLaughlin, Projected Points: 8.4
+
+
+### Acknowledgments
+
+All data pulled from ESPN Fantasy API 
